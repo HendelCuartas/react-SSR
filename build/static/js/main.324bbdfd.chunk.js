@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-ssr-app"]=this["webpackJsonpmy-ssr-app"]||[]).push([[0],{3:function(e,n,t){e.exports=t(8)},8:function(e,n,t){"use strict";t.r(n);var a=t(0),r=t.n(a),s=t(2),c=function(e){return r.a.createElement("h1",null,"Hello ",e.name,"!")};t.n(s).a.hydrate(r.a.createElement((function(){return r.a.createElement(c,{name:"Test"})}),null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.324bbdfd.chunk.js.map
